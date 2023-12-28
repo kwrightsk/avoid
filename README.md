@@ -1,6 +1,9 @@
 # Avoid
 A small 2-D "endless runner" style video game built with Processing.
 
+## Game Preview
+https://github.com/kwrightsk/avoid/assets/154839956/2b4a6172-55bd-4ff2-8010-99189001daf5
+
 ## Gameplay
 The player controls a white square using their cursor to avoid being hit by oncoming coloured squares that rain down from the top of the screen, in which the goal of the game is to survive for as long as possible. Points are gained by successfully dodging squares, and there are a total of 10 difficulty levels which introduce increasingly faster/more frequent squares to dodge.
 
